@@ -1,0 +1,50 @@
+body{
+color:blueviolet;
+background:blue;
+margin:0px;
+font-family:"merriweather",serif;
+}
+header {
+  
+  
+   border-bottom:  solid 2px rgb(152, 70, 210);
+   padding:20px;
+   font-size: 72px;
+   color: red;
+}
+
+.chamda{
+
+   background: rgb(200, 197, 204);
+   padding-bottom: 70px;
+   display: flex;
+   justify-content: center;
+}
+
+.texto-principal{
+
+   margin-right: 15%;
+}
+h1{
+   font-size: 50%;
+}
+p{
+
+   font-size: 15%;
+}
+
+img {
+height: 200px;
+
+}
+
+.categoria-filmes {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
+.categoria{
+   padding-left: 20px;
+   padding-right: 10px; ;
+}
